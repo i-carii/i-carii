@@ -25,7 +25,7 @@ My passion for technology has led me down a path of transitioning into Cybersecu
 
 ### 🚀 Key Cybersecurity Projects
 
-#### [🔍 SOC Analyst & Threat Hunting Lab](./SOC-Threat-Hunting-Lab)
+#### [🔍 SOC Analyst & Threat Hunting Lab](./SOC-Threat-Hunting)
 * Executed **SPL queries** in Splunk to detect 15+ unauthorized access and Brute-Force attacks. 
 * Utilized **Sysmon** to identify malicious process injections, improving visibility by 40%. 
 * Analyzed 50GB of **PCAP data** for Command-and-Control (C2) traffic. 
