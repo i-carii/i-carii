@@ -1,6 +1,6 @@
 # Hi, I'm Jaccari Jones 👋
 
-### 🛡️ Cybersecurity Analyst Candidate 
+### 🛡️ Cybersecurity Professional 
 [cite_start]**Student @ Western Governors University (B.S. Cybersecurity & Information Assurance)** 
 
 Passionate about detecting and mitigating security threats through methodology-driven analysis. [cite_start]My experience focuses on **Threat Hunting**, **Forensic Analysis**, and **Network Defense**. [cite: 5]
