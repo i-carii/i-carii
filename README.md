@@ -23,7 +23,7 @@ My passion for technology has led me down a path of transitioning into Cybersecu
 
 ---
 
-### 🚀 Key Cybersecurity Projects (Pin these below!)
+### 🚀 Key Cybersecurity Projects
 
 #### [🔍 SOC Analyst & Threat Hunting Lab](./SOC-Threat-Hunting-Lab)
 * Executed **SPL queries** in Splunk to detect 15+ unauthorized access and Brute-Force attacks. 
