@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaccari! <br/><a  <a href="www.linkedin.com/in/jaccari-jones">Cybersecurity Professional</a>
+<h1>Hi, I'm Jaccari Jones! <br/><a  <a href="www.linkedin.com/in/jaccari-jones">Cybersecurity Professional | SIEM Operations (Splunk, ELK) | CompTIA Security+ | Incident Triage & Log Analysis</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
