@@ -30,7 +30,7 @@ My passion for technology has led me down a path of transitioning into Cybersecu
 * Utilized **Sysmon** to identify malicious process injections, improving visibility by 40%. 
 * Analyzed 50GB of **PCAP data** for Command-and-Control (C2) traffic. 
 
-#### [📂 Digital Forensics & Incident Response](./Forensic-Investigation-Insider-Threat)
+#### [📂 Digital Forensics & Incident Response](https://github.com/i-carii/Forensic-Investigation-Insider-Threat)
 * Conducted forensic analysis using **Autopsy** to uncover insider threats. 
 * Recovered deleted security files and analyzed metadata for privilege escalation attempts. 
 * Produced 5+ technical forensic reports detailing incident timelines. 
