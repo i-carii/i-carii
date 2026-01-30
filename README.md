@@ -35,7 +35,7 @@ My passion for technology has led me down a path of transitioning into Cybersecu
 * Recovered deleted security files and analyzed metadata for privilege escalation attempts. 
 * Produced 5+ technical forensic reports detailing incident timelines. 
 
-#### [🌐 Network Security & Vulnerability Assessment](./Network-Vulnerability-Lab)
+#### [🌐 Network Security & Vulnerability Assessment](https://github.com/i-carii/Network-Vulnerability-Assessment-Lab)
 * Used **Nmap** to identify 3 critical CVEs across a 6-host virtual lab. 
 * Analyzed traffic in **Wireshark** to detect SYN floods and unencrypted credentials. 
 * Implemented mitigations (SYN cookies/rate limiting) to improve security posture by 90%. 
