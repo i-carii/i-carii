@@ -42,8 +42,8 @@ workflow tooling; Bash and PowerShell
 
 ### [AI-Assisted Defect Triage Automation](https://github.com/i-carii/AI-Assisted-Defect-Triage-Automation)
 Built during my internship at Cisco. Replaced a manual, high-volume defect-review workflow
-with browser-based bulk extraction feeding an AI relevance-analysis step — up to 2,000 records
-per run. Write-up covers the failure modes I had to engineer around: stalled-page loop
+with browser-based bulk extraction feeding an AI relevance-analysis step — 200+ records per
+run. Write-up covers the failure modes I had to engineer around: stalled-page loop
 detection, dynamic render-state waits, memory ceilings, and partial-data salvage on crash.
 
 ### [AI-Assisted Trading Bot](https://github.com/i-carii/AI-Assisted-Trading-Bot)
